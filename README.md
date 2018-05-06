@@ -1,4 +1,4 @@
 # Date-Picker
-jquery date picker, date picker
-Add this code our projrct
-This is working properly 
+jquery date picker, date picker\n
+Add this code our projrct\n
+This is working properly \n
